@@ -1,7 +1,7 @@
 {
   "name": "movie-listings-sdk",
   "description": "A Simple interface to get cinemas and movie listings",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "histoiredebabar",
   "license": "MIT",
